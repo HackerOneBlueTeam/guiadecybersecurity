@@ -256,7 +256,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 
 ## 📃 Newsletters de Cyber Security
 
-- [Securelist | Kaspersky's threat research and reports](https://securelist.com/) - Relatórios de inteligência de ameaças da Kaspersky, pesquisa de malware, análise de APT e estatísticas.
+- [Securelist | Kaspersky's Threat Research and Reports](https://securelist.com/) - Relatórios de inteligência de ameaças da Kaspersky.
 - [API Security Newsletter](https://apisecurity.io/) - Notícias e vulnerabilidades de segurança da API.
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Ferramentas, eventos, ameaças.
 - [We Live Security](https://www.welivesecurity.com/br/) - Notícias, visualizações e insights premiados.
